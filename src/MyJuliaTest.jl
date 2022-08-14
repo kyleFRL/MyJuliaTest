@@ -1,5 +1,7 @@
 module MyJuliaTest
 
-# Write your package code here.
+include("refer.jl")
+
+export double
 
 end
