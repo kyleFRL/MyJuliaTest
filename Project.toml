@@ -3,6 +3,9 @@ uuid = "fada723d-59c7-40dc-accd-64db1747102e"
 authors = ["Kyle Gao"]
 version = "0.1.0"
 
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+
 [compat]
 julia = "1.7.3"
 
